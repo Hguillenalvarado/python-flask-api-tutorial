@@ -28,6 +28,12 @@
             "reset",
             "build",
             "test",
+            "reset",
+            "build",
+            "test",
+            "reset",
+            "build",
+            "test",
             "reset"
         ]
     },
@@ -141,7 +147,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 3,
@@ -176,7 +182,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 4,
@@ -241,7 +247,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 6,
