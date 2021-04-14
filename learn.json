@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://amethyst-louse-asmop6w6.ws-us03.gitpod.io",
+        "address": "https://azure-horse-njgkjmub.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.61"
@@ -14,6 +14,9 @@
         "exercisesPath": ".learn/exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset",
@@ -465,7 +468,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 14,
@@ -495,7 +498,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 15,
@@ -525,7 +528,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 16,
@@ -555,7 +558,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         }
     ]
 }
